@@ -4,8 +4,11 @@
 项目需自备代理池。
 
 1.启动
-  在项目根目录下，使用scrapy crawler sofang.py命令启动。
+---
+  在项目根目录下，使用scrapy crawler sofang.py命令启动。<br/>
+  
 2.获取代理ip
+---
   在middlewares.py中，修改成你自己的代理池的url
 
 ```Java
